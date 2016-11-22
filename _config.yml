@@ -1,0 +1,6 @@
+name: Photo Blog
+description: Photo blog using Len, a html5up design
+author: Jason Hames
+baseurl: /photo_blog
+markdown: kramdown
+exclude: [LICENSE.txt]
